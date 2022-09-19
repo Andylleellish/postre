@@ -27,3 +27,7 @@ header nav{
     display: flex;
     flex-direction: column;
 }
+.funciones ul .renglon1{
+    width: 200px;
+    height: 100px;
+}
