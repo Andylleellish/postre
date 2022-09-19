@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    height: 174px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+}
+header nav{
+    word-spacing: 10px;
+}
+.bienvenida{
+    display: flex;
+    width: 100vw;
+
+}
+.bienvenida .quienessomos{
+    display: flex;
+    flex-direction: column;
+}
+.funciones{
+    display: flex;
+}
+.funciones .diferencias{
+    display: flex;
+    flex-direction: column;
+}
